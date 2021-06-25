@@ -1,0 +1,16 @@
+C:\Users\Cemil\Desktop\patika-for-break-continue\bin\Debug\net5.0\patika-for-break-continue.exe
+C:\Users\Cemil\Desktop\patika-for-break-continue\bin\Debug\net5.0\patika-for-break-continue.deps.json
+C:\Users\Cemil\Desktop\patika-for-break-continue\bin\Debug\net5.0\patika-for-break-continue.runtimeconfig.json
+C:\Users\Cemil\Desktop\patika-for-break-continue\bin\Debug\net5.0\patika-for-break-continue.runtimeconfig.dev.json
+C:\Users\Cemil\Desktop\patika-for-break-continue\bin\Debug\net5.0\patika-for-break-continue.dll
+C:\Users\Cemil\Desktop\patika-for-break-continue\bin\Debug\net5.0\ref\patika-for-break-continue.dll
+C:\Users\Cemil\Desktop\patika-for-break-continue\bin\Debug\net5.0\patika-for-break-continue.pdb
+C:\Users\Cemil\Desktop\patika-for-break-continue\obj\Debug\net5.0\patika-for-break-continue.csprojAssemblyReference.cache
+C:\Users\Cemil\Desktop\patika-for-break-continue\obj\Debug\net5.0\patika-for-break-continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cemil\Desktop\patika-for-break-continue\obj\Debug\net5.0\patika-for-break-continue.AssemblyInfoInputs.cache
+C:\Users\Cemil\Desktop\patika-for-break-continue\obj\Debug\net5.0\patika-for-break-continue.AssemblyInfo.cs
+C:\Users\Cemil\Desktop\patika-for-break-continue\obj\Debug\net5.0\patika-for-break-continue.csproj.CoreCompileInputs.cache
+C:\Users\Cemil\Desktop\patika-for-break-continue\obj\Debug\net5.0\patika-for-break-continue.dll
+C:\Users\Cemil\Desktop\patika-for-break-continue\obj\Debug\net5.0\ref\patika-for-break-continue.dll
+C:\Users\Cemil\Desktop\patika-for-break-continue\obj\Debug\net5.0\patika-for-break-continue.pdb
+C:\Users\Cemil\Desktop\patika-for-break-continue\obj\Debug\net5.0\patika-for-break-continue.genruntimeconfig.cache
